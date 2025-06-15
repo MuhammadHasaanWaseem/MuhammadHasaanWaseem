@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hi 👋, I'm Muhammad Hasaan</h1>
+<h1 align="center">I'm Muhammad Hasaan</h1>
 <h3 align="center">A passionate Frontend Developer from Pakistan</h3>
 
 ---
