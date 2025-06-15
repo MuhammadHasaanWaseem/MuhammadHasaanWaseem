@@ -17,7 +17,6 @@
 
 📫 Reach me at **muhammadhasaanwork@gmail.com**
 
-📄 [Check out my Resume](https://www.linkedin.com/posts/muhammad-hasaan-0499ba344_resume-activity-7339983876091432961-13ht?utm_source=share&utm_medium=member_android&rcm=ACoAAFZKKrkBXjQRsmiSDPqewSF6MAfCqutm5Ew)
 
 ---
 
