@@ -1,4 +1,4 @@
-Here's a polished README.md file for your GitHub profile, incorporating your bio, experience, and tech stack from your resume and profile description:
+
 
 <h1 align="center">Hi 👋, I'm Muhammad Hasaan</h1>
 <h3 align="center">A passionate Frontend Developer from Pakistan</h3>
@@ -74,14 +74,6 @@ Here's a polished README.md file for your GitHub profile, incorporating your bio
 </p>
 
 ---
-
-### 📬 Connect with me:
-
-<p align="left">
-  <a href="https://linkedin.com/in/muhammadhasaan" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammadhasaan" height="30" width="40" />
-  </a>
-</p>
 
 ---
 
