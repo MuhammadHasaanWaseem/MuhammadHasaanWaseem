@@ -5,7 +5,8 @@
 
 ---
 
-🔭 I’m currently working on **Pepper Wiz**
+🔭 I just completed my project **Pepper Wiz**
+🔭 I’m currently working on **VerdikX**
 
 🌱 I’m currently learning **DevOps, Express, and Node.js**
 
