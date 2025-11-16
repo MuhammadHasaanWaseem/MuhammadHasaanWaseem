@@ -1,20 +1,14 @@
 
 
 <h1 align="center">I'm Muhammad Hasaan</h1>
-<h3 align="center">A passionate Frontend Developer from Pakistan</h3>
+<h3 align="center">A passionate Software Engineer from Pakistan</h3>
 
 ---
 
-🔭 I just completed my project **Pepper Wiz**
-🔭 I’m currently working on **VerdikX**
 
-🌱 I’m currently learning **DevOps, Express, and Node.js**
 
-👨‍💻 My recent project: [Rabbit - A Social Media App](https://github.com/MuhammadHasaanWaseem/fyp-React-native-Social-media-application-name-RABBIT-)
 
-📁 Explore all my projects at: [GitHub Repository](https://github.com/MuhammadHasaanWaseem)
-
-💬 Ask me about **React Native, Supabase, Tailwind, TypeScript, or anything related to frontend development**
+💬 **
 
 📫 Reach me at **muhammadhasaanwork@gmail.com**
 
@@ -31,17 +25,51 @@
 - Collaborated remotely with team to deliver clean, scalable code
 
 ---
+### 👨‍💼 Professional Experience
+
+**Full stack Engineer —Upvave part time**  
+*June 2025 - October 2025*  
+- Developed cross-platform mobile apps using React Native  and website using react and next js 
+- Integrated third-party APIs and RESTful services
+- developed scalable website backend with express and node js
+- set up ci/cd piplines with guthub actiosn and aws 
+- Focused on performance optimization and modular architecture  
+- Collaborated remotely with team to deliver clean, scalable code
+
+---### 👨‍💼 Professional Experience
+
+**Full stack  Engineer — 724.one**  
+*june 2025 - present*  
+- Developed cross-platform mobile apps using React Native  
+- Integrated third-party APIs and RESTful services  
+- Focused on performance optimization and modular architecture  
+- Collaborated remotely with team to deliver clean, scalable code
+
+---
 
 ### 🎓 Education
 
 **Bachelor of Science in Software Engineering**  
 *Lahore Garrison University (2021 - 2025)*  
-- CGPA: 3.41  
+- CGPA: 3.47
 - Hackathon Participant — TechWar at LGU
 
 ---
 
 ### 🚀 Featured Projects
+
+- **Kinnect**  
+  *Online Dating platform for nigeria *  
+  Tech Stack: React Native, Expo Router, Pixabay API, Reanimated,redux ,firebase,express , ngrok ,shopify packages, open ai key
+ **Melodic minds**  
+  *Online Poem sharing and collabs social media application *  
+  Tech Stack: React Native, Expo Router, Pixabay API, Reanimated,redux ,firebase,pell editor,shopify packages, open ai key, custom templates , stripe , revenue cat
+ **Preacg Pro**  
+  *Online Preacher*  
+  Tech Stack: React ,supabase, open  API, docker,redux ,aws,tiptap editor, custom templates , stripe 
+ **Composit artboard**  
+  *Online Ai generation platform*  
+  Tech Stack: React ,supabase, open  API,Pixabay api, docker,redux ,aws, custom templates  
 
 - **Rabbit (FYP)**  
   *Social Media App with Scheduled Posting and Spoiler-Blur*  
@@ -55,7 +83,13 @@
   *Wallpaper App Suggesting Artistic & Inspirational Designs*  
   Tech Stack: React Native, Expo Router, Pixabay API, Reanimated
 
----
+--- and many more
+currently working on
+stackbot : a multi vendor market place
+volunter:event organier social media platform
+kinnect v2
+melodic minds v2
+springboot : start-up service product
 
 ### 🛠️ Languages and Tools
 
