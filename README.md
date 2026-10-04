@@ -125,7 +125,10 @@ I'm a software engineer who loves **mobile (Android & iOS)** and **web** develop
 </div>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MUHAMMADHASAANWASEEM/MUHAMMADHASAANWASEEM/snake-output/snake.svg" alt="Snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MUHAMMADHASAANWASEEM/MUHAMMADHASAANWASEEM/snake-output/snake-dark.svg" />
+    <img src="https://raw.githubusercontent.com/MUHAMMADHASAANWASEEM/MUHAMMADHASAANWASEEM/snake-output/snake.svg" alt="Snake animation" />
+  </picture>
 </p>
 
 ---
