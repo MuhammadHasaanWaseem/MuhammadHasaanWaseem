@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/header.svg" alt="Hi, I'm Hasaan - React Native and Full Stack Developer" width="100%" />
+  "Hi, I'm Hasaan - React Native and Full Stack Developer "
 </p>
 
 <p align="center">
@@ -117,21 +117,6 @@ I'm a software engineer who loves **mobile (Android & iOS)** and **web** develop
 
 ---
 
-## 📊 My streak
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/MUHAMMADHASAANWASEEM/MUHAMMADHASAANWASEEM/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
-  <img src="https://raw.githubusercontent.com/MUHAMMADHASAANWASEEM/MUHAMMADHASAANWASEEM/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
-</div>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MUHAMMADHASAANWASEEM/MUHAMMADHASAANWASEEM/snake-output/snake-dark.svg" />
-    <img src="https://raw.githubusercontent.com/MUHAMMADHASAANWASEEM/MUHAMMADHASAANWASEEM/snake-output/snake.svg" alt="Snake animation" />
-  </picture>
-</p>
-
----
 
 <h3 align="center">Ready for the next level? 🚀 Let's build your app together.</h3>
 
